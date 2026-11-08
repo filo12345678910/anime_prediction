@@ -1,3 +1,11 @@
-# anime_prediction
+# Anime Prediction
 
-Project made for Information retrieval course. It takes various informations about anime like Tags, Studios or Release Year and tries to predict score.
+A machine learning project developed as part of the Information Retrieval course.
+
+The project aims to predict anime ratings based on various features, including genres, studios, release year, and other metadata.
+
+## Technologies
+
+- Python
+- Machine Learning
+- Data Analysis
